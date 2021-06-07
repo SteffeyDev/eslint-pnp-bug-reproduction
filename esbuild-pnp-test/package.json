@@ -1,0 +1,17 @@
+{
+  "name": "esbuild-pnp-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "out.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild-scripts": "^0.3.0",
+    "uuid": "latest"
+  },
+  "devDependencies": {
+    "@yarnpkg/esbuild-plugin-pnp": "^1.0.0-rc.5",
+    "esbuild": "^0.12.6"
+  }
+}
